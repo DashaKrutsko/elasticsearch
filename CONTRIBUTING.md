@@ -1,5 +1,3 @@
-Dasha
-
 Contributing to elasticsearch
 =============================
 
